@@ -1,0 +1,46 @@
+.loader {
+    display: none;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  /* Style dla komunikatu o błędzie */
+  .error {
+    display: none;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    background-color: #ffcccc;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  /* Style dla kontenera z informacjami o kocie */
+  .cat-info {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Styl dla select.breed-select - możesz dostosować go do swoich preferencji */
+  .breed-select {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  /* Dodatkowe style dla rozwijanej listy SlimSelect (opcjonalne) */
+  .slim-select {
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
